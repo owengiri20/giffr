@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "517668111065",
+    "firebase_url": "https://giffr-be899.firebaseio.com",
+    "project_id": "giffr-be899",
+    "storage_bucket": "giffr-be899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517668111065:android:86df8db4a5f4b4d36cb4c8",
+        "android_client_info": {
+          "package_name": "co.owen_giri.giffr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517668111065-cmevvq13p9dl4ndqpv5unc4f5knv19rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-9PYV-XamXODIRIcA_M86z1Q2qJA802U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517668111065-cmevvq13p9dl4ndqpv5unc4f5knv19rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
